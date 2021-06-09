@@ -1,7 +1,6 @@
 # CTD_informatica
 Exercícios das aulas de Introdução à Informática do curso Certified Tech Developer
 
-Repositório para guardar os exercicios do curso Certified Tech Developer.
 
 A formação se trata de um curso de 2 anos da Digital House e foi estruturada em conjunto com os profissionais de tecnologia das empresas Mercado Livre e Globant.
 
